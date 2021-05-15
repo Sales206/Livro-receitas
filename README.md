@@ -1,4 +1,8 @@
-*pavê
+# Livro de Recitas :man_cook:
 
-*Strogonnof de frango 
+
+
+- Strogonoff de frango 
+
+- Pavê
 
